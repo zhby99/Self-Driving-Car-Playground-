@@ -7,3 +7,6 @@ Find and mark the lane(only work for white lanes) red for a specific region.
 
 ### edge_detect
 Use Canny edge detection from openCV to detect edges from gray graph.
+
+### Hough Transformation
+https://alyssaq.github.io/2014/understanding-hough-transform/
