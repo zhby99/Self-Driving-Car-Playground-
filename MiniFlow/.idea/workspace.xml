@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397c09a7-9a00-4727-9d18-2f4bf60d69fa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Project2/writeup_template.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-LaneLines-P1" afterPath="$PROJECT_DIR$/../CarND-LaneLines-P1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CarND-Term1-Starter-Kit" afterPath="$PROJECT_DIR$/../CarND-Term1-Starter-Kit" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lane-Detecting/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lane-Detecting/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lane-Detecting/hough_transform.py" afterPath="$PROJECT_DIR$/../Lane-Detecting/hough_transform.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/miniflow/Node.py" afterPath="$PROJECT_DIR$/miniflow/Node.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
